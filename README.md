@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aravind1512
+- 👀 I’m interested in Machine learning projects
+- 🌱 I’m currently learning ML releated techniques
+- 📫 you can reach me on aravind.kalyanam4@gmail.com
